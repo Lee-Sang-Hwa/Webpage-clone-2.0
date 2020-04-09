@@ -9,7 +9,7 @@ a{
 h1{
   text-align: center;
   text-decoration: none;
-  border-color: black;
+  text-decoration-color: black;
   border-bottom:1px solid gray;
   margin:0;
   padding:20px;
